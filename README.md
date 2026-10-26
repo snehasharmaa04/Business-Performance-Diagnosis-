@@ -67,19 +67,3 @@ Analyze customer demand, product mix and sales trends in the South region to ide
 3. Conclusion
 
 The analysis indicates that the business generates substantial sales but has opportunities to improve profitability. Addressing loss-making sub-categories, supporting profitable products and investigating regional performance may help management make more informed business decisions.
-
-# 📂 Repository Structure
-
-Business-Performance-Diagnosis-Dashboard/
-│
-├── data/
-│   └── superstore_cleaned.csv
-│
-├── dashboard/
-│   └── Business_Performance_Diagnosis.pbix
-│
-├── images/
-│   └── dashboard_preview.png
-│
-└── README.md
-
